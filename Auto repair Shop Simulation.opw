@@ -1,0 +1,18 @@
+[RESOURCES]
+James
+Ema
+Ava
+Lift
+[VARIABLES]
+Car realease.NumberIn
+Ema 1.NumberIn
+James 1.NumberIn
+car lifting part.NumberOut
+car lifting part.NumberIn
+Ema 1.NumberOut
+Ava 1.NumberIn
+Car realease.NumberOut
+James 1.NumberOut
+cars arrive.NumberOut
+cars Leave.NumberOut
+Ava 1.NumberOut

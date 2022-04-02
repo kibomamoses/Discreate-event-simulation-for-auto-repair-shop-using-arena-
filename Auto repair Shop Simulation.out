@@ -1,0 +1,71 @@
+
+                                      ARENA Simulation Results
+                             kibomamoses100@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/24/2022
+Analyst: kibomamoses100@gmail.com                                    Model revision date: 2/24/2022
+
+Replication ended at time      : 168.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Car.VATime                                  8.3915     (Insuf)    6.7150     10.292         19    
+Car.NVATime                                 .00000     (Insuf)    .00000     .00000         19    
+Car.WaitTime                                8.3180     (Insuf)    .00000     26.135         19    
+Car.TranTime                                .00000     (Insuf)    .00000     .00000         19    
+Car.OtherTime                               .00000     (Insuf)    .00000     .00000         19    
+Car.TotalTime                               16.709     (Insuf)    6.9670     34.123         19    
+Ava 1.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         20    
+James 1.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000         20    
+car lifting part.Queue.WaitingTime          8.6040     (Insuf)    .00000     26.135         20    
+Ema 1.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         20    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Car.WIP                                     2.4246     (Insuf)    .00000     7.0000     7.0000    
+James.NumberBusy                            .82497     (Insuf)    .00000     1.0000     1.0000    
+James.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+James.Utilization                           .82497     (Insuf)    .00000     1.0000     1.0000    
+Ema.NumberBusy                              .01340     (Insuf)    .00000     1.0000     .00000    
+Ema.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ema.Utilization                             .01340     (Insuf)    .00000     1.0000     .00000    
+Ava.NumberBusy                              .01573     (Insuf)    .00000     1.0000     .00000    
+Ava.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ava.Utilization                             .01573     (Insuf)    .00000     1.0000     .00000    
+Lift.NumberBusy                             .98703     (Insuf)    .00000     1.0000     1.0000    
+Lift.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Lift.Utilization                            .98703     (Insuf)    .00000     1.0000     1.0000    
+Ava 1.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+James 1.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+car lifting part.Queue.NumberInQueue        1.4376     (Insuf)    .00000     6.0000     6.0000    
+Ema 1.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Car.NumberIn                                26.000    
+Car.NumberOut                               19.000    
+James.NumberSeized                          20.000    
+James.ScheduledUtilization                  .82497    
+Ema.NumberSeized                            20.000    
+Ema.ScheduledUtilization                    .01340    
+Ava.NumberSeized                            20.000    
+Ava.ScheduledUtilization                    .01573    
+Lift.NumberSeized                           20.000    
+Lift.ScheduledUtilization                   .98703    
+System.NumberOut                            19.000    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.
